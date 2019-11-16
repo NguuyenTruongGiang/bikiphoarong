@@ -1,0 +1,23 @@
+[ 
+  { 
+     "manganh": "OT", 
+     "tennganh": "Cẩm nang ôn thi", 
+     "tenfilejson": "onthi.json", 
+     "thumucvanban": "onthi" 
+   }
+, 
+  { 
+     "manganh": "TS", 
+     "tennganh": "Thông tin tuyển sinh", 
+     "tenfilejson": "thongtintuyensinh.json", 
+     "thumucvanban": "thongtintuyensinh"
+   }
+   ,  
+   { 
+     "manganh": "TV", 
+     "tennganh": "Tư vấn chương trình CNTT", 
+     "tenfilejson": "tuvan.json", 
+     "thumucvanban": "tuvan"
+   }
+  
+]
